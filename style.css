@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+    min-height: 200px;
+}
+h1{
+    background-color: aqua;
+}
+img{
+    width: 300px;
+}
